@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="my/eu.jpg" alt="eu" width="200" style="width: 100%;" />
+  <img src="user.png" alt="eu" width="200" style="width: 100%;" />
 </div>
 
 <!--
