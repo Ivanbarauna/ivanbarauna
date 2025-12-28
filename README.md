@@ -10,4 +10,3 @@ Tenho como objetivo fazer uma pós Graduação em Gestor de TI ou Engenharia de 
 Conhecimentos
 Atualmente atuo no 1 ano da faculdade
 
--->
