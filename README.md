@@ -7,6 +7,7 @@ Sou desenvolvedor apaixonado por tecnologia, com formação em Analista de Siste
 
 Tenho como objetivo fazer uma pós Graduação em Gestor de TI ou Engenharia de Software 
 
-Conhecimentos
+### Conhecimentos 
+
 Atualmente atuo no 1 ano da faculdade
 
