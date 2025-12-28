@@ -2,7 +2,7 @@
   <img src="user.png" alt="eu" width="200" style="width: 100%;" />
 </div>
 
-## Hi there 👋
+## Hi there 
 
 <!--
 **Ivanbarauna/ivanbarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
